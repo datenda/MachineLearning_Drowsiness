@@ -9,7 +9,7 @@ MachineLearning_Drowsiness is a Python-based real-time sleep detection system us
 To run this project, ensure you have Jupyter Notebook installed. You can install it using pip:
 pip install notebook
 
-After installing Jupyter Notebook, you can download the project files and open the `MachineLearning_Drowziness.ipynb` file in Jupyter Notebook.
+After installing Jupyter Notebook, you can download the project files and open the `Untitled.ipynb` file in Jupyter Notebook.
 
 ## Usage
 
